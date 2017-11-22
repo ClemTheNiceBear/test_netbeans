@@ -35,5 +35,4 @@ public class FFdebugTest
             array[i] = scan.nextInt();
         }
     }
-    //Morgane = débile !!
 }

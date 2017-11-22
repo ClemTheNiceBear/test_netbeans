@@ -34,4 +34,5 @@ public class FFdebugTest
             array[i] = scan.nextInt();
         }
     }
+    //T'es trop fort !!!!
 }

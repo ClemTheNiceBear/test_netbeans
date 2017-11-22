@@ -3,7 +3,7 @@ import static ffdebugtest.FFdebugCalc.findMin;
 import java.util.Scanner;
 
 public class FFdebugTest
-        //claire = caca
+        
 {
     private int[] myArray;
     private int myInt;
@@ -35,5 +35,5 @@ public class FFdebugTest
             array[i] = scan.nextInt();
         }
     }
-    //T'es trop fort !!!!
+    //Morgane = débile !!
 }

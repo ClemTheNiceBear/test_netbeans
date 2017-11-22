@@ -3,6 +3,7 @@ import static ffdebugtest.FFdebugCalc.findMin;
 import java.util.Scanner;
 
 public class FFdebugTest
+        //claire = caca
 {
     private int[] myArray;
     private int myInt;
